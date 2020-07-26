@@ -1,3 +1,5 @@
+[![Alire](https://img.shields.io/endpoint?url=https://alire.ada.dev/badges/hal.json)](https://alire.ada.dev/crates/hal.html)
+
 # hal
 Hardware Abstraction Layer: interfaces definitions to abstract access to common hardware devices and protocols
 
