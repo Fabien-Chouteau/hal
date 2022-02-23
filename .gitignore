@@ -4,5 +4,8 @@
 # Ada Library Information
 *.ali
 
-alire/
-alire.lock
+/alire/
+/config/
+/bin/
+/obj/
+/lib/
