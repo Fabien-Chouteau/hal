@@ -14,7 +14,7 @@ Library](https://github.com/AdaCore/Ada_Drivers_Library/) repo.
 '''
 
 name = "hal"
-version = "0.5.0-dev"
+version = "1.0.0"
 licenses = "BSD-3-Clause"
 maintainers = ["chouteau@adacore.com"]
 maintainers-logins = ["Fabien-Chouteau"]
